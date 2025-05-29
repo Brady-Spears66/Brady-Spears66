@@ -33,9 +33,9 @@ I thrive at the intersection of **frontend development** and **machine learning*
 ## 🌐 Web Portfolio
 
 Want to see what I’ve built?  
-Check out my [React Portfolio](https://github.com/Brady-Spears66/React-Portfolio) — a showcase of my projects, skills, and what I’m most excited about in software development.
+Check out my [React Portfolio](https://bradyspearsportfolio.web.app) — a showcase of my projects, skills, and what I’m most excited about in software development.
 
----
+Feel free to view my [repository](https://github.com/Brady-Spears66/React-Portfolio) to check out my code! 
 
 ## 📌 Interests
 - Building and scaling web applications
